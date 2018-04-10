@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Install
 
 ## Get Start
 
