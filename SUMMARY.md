@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Install
+* [Install](install.md)
 
 ## Get Start
 
